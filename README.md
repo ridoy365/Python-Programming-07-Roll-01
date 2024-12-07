@@ -1,1 +1,1 @@
-# Python-Programming-07-Roll-01
+##This repository is a collection of Python programming exercises, mini-projects, and concepts I've worked on to enhance my Python skills. It serves as a learning log and a showcase of progress as I explore various Python programming topics.
